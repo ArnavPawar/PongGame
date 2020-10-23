@@ -76,7 +76,6 @@ public class Pong extends JPanel implements ActionListener
         g.drawString(" " + score1, 260, 100);
         g.drawString(" " + score2, 315, 100);
         g.drawString("Arnav Pawar" , 100, 100);
-        g.drawString("Per 6" , 400, 100);
     }
     @Override
     public void paintComponent(Graphics g)
