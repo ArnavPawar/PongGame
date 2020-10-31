@@ -1,6 +1,5 @@
 //*
 //Arnav Pawar
-//Period 6
 //4/9/18
  //*/
 import javax.swing.JFrame;     //class for main canvas(window)
