@@ -11,7 +11,6 @@ import javax.swing.JPanel;
 import javax.swing.Timer;
 /*
 Arnav Pawar
-Per 6
 4/1/18
  */
 
