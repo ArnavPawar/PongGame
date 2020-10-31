@@ -1,6 +1,5 @@
 /*
 Arnav Pawar
-per 6
 */
 import java.awt.Color;
 import java.awt.Graphics;
