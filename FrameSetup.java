@@ -22,7 +22,7 @@ public class FrameSetup {
         JFrame window = new JFrame();            //makes a jframe
                         
       
-        Pong panel1 = new Pong();
+        Pong panel1 = new Pong(); 
         window.add(panel1);                 //adds the jpanel to your window
         
         initializeJFrame(window);          //initializes the window to your settings 
